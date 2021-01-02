@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 6
-title: Participating online
+title: Comparison of Tools
 has_children: false
 has_toc: false
 ---
