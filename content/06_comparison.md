@@ -5,7 +5,7 @@ title: Comparison of Tools
 has_children: false
 has_toc: false
 ---
-# Organizing and Collaborating
+# Comparison of Tools
 
 <img src="images/cmtable1.jpg" alt="Zoom toolbar" width="690"/>
 <br/>
@@ -14,7 +14,7 @@ has_toc: false
 <img src="images/cmtable2.jpg" alt="Zoom toolbar" width="690"/>
  
 <br/>
-## Collaboration Features
+ 
 <img src="images/cmtable1.jpg" alt="Zoom toolbar" width="690"/>
 
 Tables created by Sarah Parker, Reference Librarian, UBC Woodward Library
